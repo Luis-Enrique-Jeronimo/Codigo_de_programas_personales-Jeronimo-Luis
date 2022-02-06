@@ -1,0 +1,11 @@
+Piedra papel o tijera.
+
+clase papel:
+	Atributos.
+	-blando.
+	-
+
+
+clase piedra
+
+clase tijera
