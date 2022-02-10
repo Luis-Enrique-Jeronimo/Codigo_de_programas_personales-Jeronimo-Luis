@@ -1,0 +1,108 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    position:absolute;
+}
+
+header{
+    width: 100%;
+    height: 0%;
+    background-color: rgb(5, 131, 189);
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+    block-size: 20%;
+    margin-block: 2%;
+    background-color: gray;
+    font-size: 200%;
+    border-radius: 14px;
+    border: 4px solid  ;
+}
+
+header.li{
+    color:blanchedalmond;
+}
+
+ul{
+    text-align: left;
+}
+
+#Presentacion{
+    width: 100%;
+    height: 50%;
+    background-color: gray;
+}
+
+#Educacion{
+    width: 100%;
+    height: 15%;
+    background-color: blueviolet;
+    position: fixed;
+}
+
+footer{
+    width: 100%;
+    height: 20%;
+    color: white;
+    font-weight: normal;
+}
+
+div.container_left{
+    background-color: rgb(5, 131, 189);
+    width: 5%;
+    height: 5%;
+    block-size: 50%;
+    padding-right: 50%;
+    padding-bottom: 1%;
+    border-style: solid;
+    float: left;
+}
+
+div.container_right{
+    width: 5%;
+    height: 5%;
+    block-size: 50%;
+    background-color: rgb(5, 131, 189);
+    border-style:solid;
+    border-color: black;
+    border-bottom: 15%;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 15%;
+    border-color: rgb(5, 50, 71);
+    padding-left: 50%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding: 0px,0px,0px,0px;
+    float: right;
+}
+
+div.container_topcenter{
+    width: 50%;
+    height: 10%;
+    block-size: 50%;
+    background-color: rgb(5, 131, 189);
+    border-style: solid;
+    border-color: rgb(5, 50, 71);
+    padding: 0px,0px,0px,0px;
+    display: block;
+}
+
+div.container_center{
+    width: 100%;
+    height: 1%;
+    block-size: 50%;
+    text-align-last:center;
+    text-transform: uppercase;
+    border-style:solid;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(5, 18, 24);
+    font-size: 120%;
+    padding-top: 37%;
+    border-radius: 2%;
+}
